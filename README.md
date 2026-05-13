@@ -32,6 +32,9 @@ A tiny terminal text editor i am working on, designed to be simple, but powerful
 ###  [autoDvdRipper](https://github.com/hhhug000/autoDvdRipper)
 A script to automatically rip dvds and upload them to an sftp server. Designed to rip movies in bulk to Jellyfin. (Or Plex/Emby/Any other media library)
 
+###  [JankLang](https://github.com/hhhug000/JankLang)
+Crappy little programming language i made in an hour for programming evening
+
 ### [School-Vibecoding-Module](https://github.com/hhhug000/School-Vibecoding-Module)
 Vibecoding project I am being forced to do at school. 🤮
 

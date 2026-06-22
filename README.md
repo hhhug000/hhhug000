@@ -35,8 +35,8 @@ A script to automatically rip dvds and upload them to an sftp server. Designed t
 ###  [JankLang](https://github.com/hhhug000/JankLang)
 Crappy little programming language i made in an hour for programming evening
 
-### [School-Vibecoding-Module](https://github.com/hhhug000/School-Vibecoding-Module)
-Vibecoding project I am being forced to do at school. 🤮
+### [mystic](https://github.com/hhhug000/mystic)
+A web framework and router for preact that runs without node js or any special server software
 
 ---
 

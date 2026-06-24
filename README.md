@@ -36,7 +36,8 @@ A script to automatically rip dvds and upload them to an sftp server. Designed t
 Crappy little programming language i made in an hour for programming evening
 
 ### [mystic](https://github.com/hhhug000/mystic)
-A web framework and router for preact that runs without node js or any special server software
+A web framework and router for preact that runs without node js or any special build or hosting software.
+Just drop it on a standard web server and it works!
 
 ---
 

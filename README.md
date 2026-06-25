@@ -39,6 +39,10 @@ Crappy little programming language i made in an hour for programming evening
 A web framework and router for preact that runs without node js or any special build or hosting software.
 Just drop it on a standard web server and it works!
 
+### [omnibase](https://github.com/hhhug000/omnibase)
+A self hostable backend as a service platform designed to be lightweight.
+Manages DB and Auth, can connect to sqlite or postgres
+
 ---
 
 ## About me
